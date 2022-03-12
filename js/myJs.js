@@ -2,15 +2,15 @@ const textConfig = {
   text1: "He luu bạn dà!!",
   text2: "Tui có này cho bạn dà coi nekkk, coi với tâm trạng vui vẻ nhee",
   text3: "Tui chúc bạn hết F1 để vào học mà còn làm F.A chung với tui =)) ",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là cậu chịu làm người iu tớ rùi nhá :v",
+  text4: "Đùa thui chứ mong bạn hết F1 để vào còn chỉ bài tuii. Mà cái Page này đẹp hông :v",
   text5: "Hong bé ưi!!",
   text6: "Toyy thích nó lắmm <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text7: "lí do cậu thích đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "Tuii biết mà ^^ cảm ơn cậu ",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Nhớ mai mốt vào là phải chỉ bài tuii á nhaa :v Còn giờ thì tui đi ngủ :>",
   text12: "Okii lunn <3",
 };
 
