@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "He luu bạn dà!!",
   text2: "Tui có này cho bạn dà coi nekkk, coi với tâm trạng vui vẻ nhee",
-  text3: "Tui chúc bạn hết F1 để vào học mà còn làm F.A chung dí tui =)) ",
+  text3: "Tui chúc bạn hết F1 để tiếp tục về đội F.A chung dí tui =)) ",
   text4: "Đùa thui chứ mong bạn hết F1 để vào còn chỉ bài tuii. Mà cái Page này đẹp hông :v",
   text5: "Hong bé ưi!!",
   text6: "Toyy thích nó lắmm <3",
