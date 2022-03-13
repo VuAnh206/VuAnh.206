@@ -1,13 +1,13 @@
 const textConfig = {
   text1: "He luu bạn dà!!",
   text2: "Tui có này cho bạn dà coi nekkk, coi với tâm trạng vui vẻ nhee",
-  text3: "Tui chúc bạn hết F1 để vào học mà còn làm F.A chung với tui =)) ",
+  text3: "Tui chúc bạn hết F1 để vào học mà còn làm F.A chung dí tui =)) ",
   text4: "Đùa thui chứ mong bạn hết F1 để vào còn chỉ bài tuii. Mà cái Page này đẹp hông :v",
   text5: "Hong bé ưi!!",
   text6: "Toyy thích nó lắmm <3",
   text7: "lí do cậu thích đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "mmm vì cậu tốt bụng vlllll",
+  text9: "Hmmm vì cậu tốt bụng vlllll",
   text10: "Tuii biết mà ^^ cảm ơn cậu ",
   text11:
     "Nhớ mai mốt vào là phải chỉ bài tuii á nhaa :v Còn giờ thì tui đi ngủ :>",
